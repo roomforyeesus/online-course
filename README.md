@@ -2,7 +2,7 @@
 **General Notes**<br><br><br>
 An online course with ability to add courses and questions in the admin page
 
-**LOGIN WITH ACCOUNT BELOW for admin**<br><br><br>
+**LOGIN WITH ACCOUNT BELOW for admin**<br>
 User 'test' psw 'test'<br><br>
 Admin 'root' psw 'passwerd'<br><br>
 
