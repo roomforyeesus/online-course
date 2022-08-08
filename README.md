@@ -11,7 +11,7 @@ For your reference
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 
-**User**
-https://online-course1.herokuapp.com/onlinecourse/
-**Admin**
-https://online-course1.herokuapp.com/admin/
+**User**<br>
+https://online-course1.herokuapp.com/onlinecourse/<br><br>
+**Admin**<br>
+https://online-course1.herokuapp.com/admin/<br><br>
