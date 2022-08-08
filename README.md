@@ -12,7 +12,7 @@ https://online-course1.herokuapp.com/onlinecourse/<br><br>
 **Admin**<br>
 https://online-course1.herokuapp.com/admin/<br><br>
 
-**NOTE only django and python course have quizes**<br>
-**LOGIN WITH ACCOUNT BELOW for admin**<br>
+**NOTE ONLY DJANGO AND PYTHON HAVE QUIZES**<br>
+**LOGIN WITH ACCOUNT BELOW FOR ADMIN**<br>
 User 'test' psw 'test'<br><br>
 Admin 'root' psw 'passwerd'<br><br>
