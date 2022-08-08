@@ -1,6 +1,6 @@
 
-**General Notes**<br><br><br>
-An online course with ability to add courses and questions in the admin page
+**General Notes**<br><br>
+An cloud native online course app.
 
 **ER Diagram**
 For your reference
@@ -12,7 +12,7 @@ https://online-course1.herokuapp.com/onlinecourse/<br><br>
 **Admin**<br>
 https://online-course1.herokuapp.com/admin/<br><br>
 
-
+**NOTE only django and python course have quizes**<br>
 **LOGIN WITH ACCOUNT BELOW for admin**<br>
 User 'test' psw 'test'<br><br>
 Admin 'root' psw 'passwerd'<br><br>
