@@ -2,10 +2,6 @@
 **General Notes**<br><br><br>
 An online course with ability to add courses and questions in the admin page
 
-**LOGIN WITH ACCOUNT BELOW for admin**<br>
-User 'test' psw 'test'<br><br>
-Admin 'root' psw 'passwerd'<br><br>
-
 **ER Diagram**
 For your reference
 
@@ -14,4 +10,9 @@ For your reference
 **User**<br>
 https://online-course1.herokuapp.com/onlinecourse/<br><br>
 **Admin**<br>
-https://online-course1.herokuapp.com/admin/<br><br>
+https://online-course1.herokuapp.com/admin/<br><br><br>
+
+
+**LOGIN WITH ACCOUNT BELOW for admin**<br>
+User 'test' psw 'test'<br><br>
+Admin 'root' psw 'passwerd'<br><br>
