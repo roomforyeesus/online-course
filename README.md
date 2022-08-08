@@ -1,10 +1,10 @@
 
-**General Notes**
+**General Notes**<br><br><br>
 An online course with ability to add courses and questions in the admin page
 
-**LOGIN WITH ACCOUNT BELOW for admin**
-User 'test' psw 'test'
-Admin 'root' psw 'passwerd'
+**LOGIN WITH ACCOUNT BELOW for admin**<br><br><br>
+User 'test' psw 'test'<br><br>
+Admin 'root' psw 'passwerd'<br><br>
 
 **ER Diagram**
 For your reference, we have prepared the ER diagram design for the new assesement feature.
