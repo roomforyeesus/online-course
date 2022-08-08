@@ -10,7 +10,7 @@ For your reference
 **User**<br>
 https://online-course1.herokuapp.com/onlinecourse/<br><br>
 **Admin**<br>
-https://online-course1.herokuapp.com/admin/<br><br><br>
+https://online-course1.herokuapp.com/admin/<br><br>
 
 
 **LOGIN WITH ACCOUNT BELOW for admin**<br>
