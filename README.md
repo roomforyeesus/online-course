@@ -1,6 +1,6 @@
 
 **General Notes**<br><br>
-An cloud native online course app.
+An cloud native online course app using django
 
 **ER Diagram**
 For your reference
